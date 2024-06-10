@@ -1,0 +1,1 @@
+{"elo": 295, "messages": [["[00:44:08]  dredlex: problem is arctan2 doesnt know the difference when x<0 and y<0 or x>0 and y>0", 174], ["[00:41:03]  dredlex: documentation says ***an2 \"returns the angle in radians\"", 118], ["[00:28:50]  dredlex: arctan(y/x) pls", 1], ["[21:27:08]  dredlex: Aware", 1], ["[22:22:59]  dredlex: Clap Clap Clap Clap", 1]], "ranking": 9927}

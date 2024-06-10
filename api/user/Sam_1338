@@ -1,0 +1,1 @@
+{"elo": 466, "messages": [["[00:43:34]  sam_1338: check if calculator is in rad or deg in the mode screen", 174], ["[00:36:10]  sam_1338: atan2 fixes the +/- 90 deg of atan tho? doesnt it?", 165], ["[00:44:38]  sam_1338: should still work, youre using arctan2", 94], ["[00:42:39]  sam_1338: arctan is tan^-1 iirc", 32], ["[00:44:19]  sam_1338: Clap", 1]], "ranking": 7412}
